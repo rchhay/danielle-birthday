@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+.tooltip {
+    background-color: greenyellow;
+    border-radius: 10px;
+    max-width: 300px;
+    padding: 15px;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+.tooltip img {
+    padding: 10px;
+}
+
+img {
+    image-orientation: from-image;
+}

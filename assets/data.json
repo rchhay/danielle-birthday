@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Allison",
+        "message": "Happy birthday, Jimmy! Hope one day soon you can have all of the McDonalds your stomach can hold, and that you will share with me and Peach-o!",
+        "start": [836, 567],
+        "end": [976, 826]
+    },
+    {
+        "name": "Peach",
+        "message": "Meow... I won't bite the recycling box today... meowbe...",
+        "start": [770, 847],
+        "end": [1107, 947]
+    },
+    {
+        "name": "Pravin",
+        "message": "Happy birthday Jimmy! I hope your motorcycle experience has taught you how to drive this Lagann I got you! It is time for you to pierce the heavens.",
+        "start": [397, 82],
+        "end": [708, 256]
+    },
+    {
+        "name": "Lin",
+        "message": "Go Warriors!",
+        "start": [376, 266],
+        "end": [704, 481]
+    },
+    {
+        "name": "Iris",
+        "message": "Happy Birthday, Jimmy! I hope it's full of joy and good playtime with Peach, perhaps some mochi ice cream, and most of all, some amusement from my virtual gift via Prof Andrew Hauze's cat, Lionel, who seems to want to give you a fairywren bird, who has found a half of a grapefruit! Whew, that's quite a run-on sentence... anyhow, I hope your 29th is a fantastic, sunny day and that we'll soon be able to celebrate in person, for real!",
+        "start": [736, 112],
+        "end": [1041, 402]
+    },
+    {
+        "name": "Karl",
+        "message": "happy birthday jimmy! i hope this picture of me brings you at least a fraction of joy as i would in person. even though youre stuck at home right now, here is a drawing of some chicagos because who has enough money really to buy a real pair these days. well enjoy your birthday year and i hope it brings you lots of great memories! see you soon in one way or another. lets go play some bball next time.",
+        "start": [946, 106],
+        "end": [1133, 240]
+    },
+    {
+        "name": "Ben",
+        "message": "Happy birthday Jimmy! Got you a fresh pair of Jordans. That way you can be ballin while you're ballin.",
+        "start": [456, 379],
+        "end": [604, 532]
+    },
+    {
+        "name": "Heidy",
+        "message": "Happy Birthday Jimmy! For some reason Allison mentioned you wanting a Bowser costume, so... here you go.",
+        "start": [209, 445],
+        "end": [505, 710]
+    },
+    {
+        "name": "Caroline",
+        "message": "happy birthday Jimmy! Hope you’re enjoying Jay Chou’s songs virtually even if you can’t go to his concerts in person right now!",
+        "start": [478, 568],
+        "end": [625, 845]
+    },
+    {
+        "name": "Paul",
+        "message": "here’s the gift on everyone’s wishlist this year! you may want to wear it when you’re around your cat, too. HBD jimmy!",
+        "start": [767, 294],
+        "end": [892, 546]
+    },
+    {
+        "name": "Alan",
+        "message": "To many more mother/daughter combos in the years to come! <br><div class='gallery'> <image src='assets/alan.png' width='200', height='150'/></div>",
+        "start": [156, 258],
+        "end": [336, 406]
+    },
+    {
+        "name": "Jeffrey",
+        "message": "Hi Jimmy! So sorry that we can't celebrate your birthday in person. Sticking to social distancing norms, I'm sharing my gift through Google hangouts. I noticed that most of the art at the new place is Allison's and I didn't want you to feel left out. That's why I'm giving you a piece of fresh artwork this birthday, drawn by yours truly. It's titled: <br><br> <i>Jimmy with Oatmeal</i> <br>One Jimmy and One Huge Box of Oatmeal!<br><br> Hope it's the kind you like 😅!",
+        "sign": "— Jeffrey 👍",
+        "start": [1036, 192],
+        "end": [1242, 340]
+    },
+    {
+        "name": "Kate",
+        "message": "Happy Birthday Jimmy! Best wishes for the upcoming year with lots of food, books, comedy, rocks, cat time etc. Hope to celebrate with you soon in person!  Stay safe and well-stocked with essentials.",
+        "start": [659,326],
+        "end": [767,545]
+    },
+    {
+        "name": "Christine",
+        "message": "Happy birthday, Jimmy! Ophelia can’t wait to meet you and wish you the best in person! Hope you don’t have to spend part of this next year squatting behind a car in record heat in Chicago or visit Texas during 106 degree weather. <br> <div class='gallery'><image src='assets/christine-01.JPG' width='100', height='130'/><image src='assets/christine-02.JPG' width='100', height='130'/><image src='assets/christine-03.JPG' width='150', height='100'/></div>",
+        "start": [568,455],
+        "end": [689,580]
+    },
+    {
+        "name": "Yang",
+        "message": "For Jimmy's b-day, I am bringing him a big non-fiction book. I hope he reads more big books.",
+        "start": [102,676],
+        "end": [460,850]
+    },
+    {
+        "name": "Steven",
+        "message": "Happy Birthday Jimmy!! For your birthday, I want to gift you your favorite pasta~ 😉 #healthy I wish I was back in Cambridge and could visit Allison and you on your special day! Will be back soon this summer and can’t wait to have more hotpot and food adventures with you. Stay flamin!",
+        "start": [948,359],
+        "end": [1181,606]
+    },
+    {
+        "name": "Wendy",
+        "message": "Hi Jimmy! For this special birthday, Mayu and I are gifting you four more cats! The big one is Jackfruit, and the little ones are Pomelo, Lychee, and Jujube. You could say that it's a fruit basket! Hope you have an amazing, protein-packed birthday and that your 29th year is the best yet!",
+        "start": [992, 526],
+        "end": [1294, 850]
+    },
+    {
+        "name": "Rathanak",
+        "message": "Hi Jimmy!! I hope you enjoy your very first basketball book. It’s an actual book. I’m not making it up. <br><br> https://www.amazon.com/My-First-Basketball-Book-Sports/dp/1454914874 <br><br> May your wingspan be long, your hops be high and your reading speed be fast. Happy 29th birthday!",
+        "start": [1152, 347],
+        "end": [1315, 695]
+    }
+
+]
