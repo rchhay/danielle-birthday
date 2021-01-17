@@ -8,9 +8,9 @@ function Drawing(options) {
     .append("svg")
     .attr("height", height)
     .attr("width", width);
-  .on("mousemove", () => {
-    console.log(d3.event.pageX, d3.event.pageY);
-  });
+  // .on("mousemove", () => {
+  //   console.log(d3.event.pageX, d3.event.pageY);
+  // });
 
   const tooltip = d3
     .select("body")
